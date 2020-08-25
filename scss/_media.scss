@@ -1,0 +1,409 @@
+@media(max-width: 2560px){
+    .newsletter__btn{
+        right: 33.5%;
+    }
+}
+
+@media(max-width: 1920px){
+    .newsletter__btn {
+        right: 28.5%;
+    }
+}
+
+@media(max-width: 1701px){
+    .main__bg{ 
+        background-position-x: 0;
+         }  
+         .newsletter__btn{
+             right: 25.5%;
+         }
+         .header__content-item__subtitle {
+            margin-bottom: 25px;
+        }
+
+}
+@media(max-width: 1600px){
+    .newsletter__btn {
+        right: 24%;
+    }
+}
+
+@media(max-width: 1440px){
+    .header__content-item {
+        right: 115px;
+    }
+    .newsletter__btn {
+        right: 21%;
+    }
+}
+
+@media(max-width: 1360px){
+    .header__content-inner__img img {
+        width: 100%;
+        max-width: 900px;
+    }
+    .header__content-item {
+        right: 65px;
+    }
+    .header__content-item__title {
+        font-size: 90px;
+        line-height: 90px;
+    }
+    .header__content-item__btn{
+        padding: 16px;
+    }
+       
+
+}
+@media(max-width: 1200px){
+    .header__content-item {
+        right: 0;
+        padding-top: 0;
+    }
+    .header__content-inner__img img {
+        width: 70%;
+    }
+    .product__title {
+        margin-bottom: 40px;
+    }
+    .tabs{
+        margin-bottom: 0;
+    } 
+    .arrivals__item {
+        max-width: 300px;
+    }
+    .arrivals__item-content__img img{
+        width: 190px;
+        height: 190px;
+    }
+    .arrivals__item-btn{
+        left: 55px;
+    }
+    .arrivals__item-btn__link{
+        font-size: 18px;
+    }
+    .arrivals__item-content__title {
+        font-size: 15px;
+    }
+.arrivals__item-content__price {
+    font-size: 20px;
+}
+}
+
+
+@media(max-width: 1025px){
+    .header__content-inner {
+        padding-top: 50px;
+    }
+    .arrivals {
+        margin-bottom: 10px;
+        padding-bottom: 0;
+    }
+    .brands-inner {
+        display: block;
+    }
+    .brands-inner__item {
+        width: 100%;
+    }
+
+    .brands-inner__item-text {
+        margin-bottom: 100px;
+    }
+    .brands-inner__image {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .brands-inner__image img {
+        padding-right: 0;
+    }
+    .brands-inner__image::after {
+        width: 300px;
+        height: 300px;
+        top: 33%;
+        right: 20%;
+   
+    }
+    .brands-inner__image::before {
+        width: 220px;
+        height: 220px;
+        top: 47%;
+        left: 65%;
+    }
+    .tab__item-content__title {
+            font-size: 16px;
+            margin-bottom: 10px;
+    }
+    .tab__item-content__price {
+        font-size: 20px;
+    }
+    .newsletter__email {
+        width: 550px;
+    }
+        .newsletter__btn {
+            right: 23.5%;
+            width: 165px;
+        }
+        .newsletter__title-bg{
+            font-size: 110px;
+            text-align: center;
+        }
+
+}
+@media(max-width: 980px){
+    .header__content-item {
+        max-width: 400px;
+    }
+    .header__content-item__title {
+        font-size: 60px;
+        line-height: 60px;
+    }
+}
+
+@media(max-width: 812px){
+    .header__content-item {
+        max-width: 325px;
+    }
+    .brands-inner__image::after {
+        top: 380px;
+        right: 106px;
+    }
+    .newsletter__btn {
+        right: 16.5%;
+    
+    }  
+}
+@media(max-width: 768px){
+    .header__content-inner__img img {
+        width: 50%;
+    }
+    .brands-inner__image::before {
+        width: 200px;
+        height: 200px;
+        top: 48%;
+        left: 66%;
+    } 
+    .brands-inner__image::after {
+        top: 31%;
+        right: 14%;
+    }
+}
+
+
+@media(max-width: 770px){
+    .header__content-item {
+        position: relative;
+        text-align: center;
+        margin: 0 auto;
+        max-width: 1000px;
+        padding-top: 30px;
+    }
+    .header__content-item__btn {
+        margin: 0 auto;
+    }
+    .header__content-inner {
+        flex-direction: column-reverse;
+    }
+    .header__content-inner__img {
+        padding-top: 20px;
+    }
+    .newsletter__btn {
+        right: 21.5%;
+    }
+    .brands-inner__item {
+        padding-top: 30px;
+    }
+    .brands-inner__image img {
+        width: 250px;
+    }
+    .newsletter__title-bg {
+        font-size: 77px;
+    }
+    .newsletter__email {
+        width: 440px;
+    }
+    .newsletter__btn {
+        width: 100px;
+    }
+}
+
+ @media(max-width: 700px){
+     .tabs{
+        flex-direction: column;
+    } 
+    .product__title {
+        margin-bottom: 0px;
+    }
+
+} 
+
+@media(max-width: 600px){
+    .header__top-inner {
+        flex-direction: column;
+    }
+    .header__logo {
+        margin-bottom: 10px;
+    }
+    .header__content-item__title {
+        font-size: 40px;
+        line-height: 26px;
+    }
+    .header__content-item__subtitle {
+        margin-bottom: 15px;
+        font-size: 45px;
+        line-height: 90px;
+    }
+   
+    
+    .title{
+    font-size: 30px;
+  }
+  .brands-inner__item-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .brands-inner__item-subtitle {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
+  .brands-inner__item-text {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .brands-inner__image::before {
+    top: 55%;
+    left: 69%;
+    width: 180px;
+    height: 180px;
+
+} 
+.brands-inner__image::after {  
+        top: 40%;
+        right: 0;
+        width: 250px;
+        height: 250px;
+    
+}
+  .newsletter__btn {
+    right: 14.5%;
+}
+.newsletter__title-bg {
+    font-size: 60px;
+}
+
+   .footer__menu li {
+    display: block;
+ }
+ .footer__menu li + li{
+     padding-left: 0;
+     padding-top: 20px;
+ }
+}
+@media(max-width: 500px){
+    .header__btn {
+        width: 330px;
+        height: 60px;
+    }
+    .header__content-inner__img img {
+        width: 100%;
+    }
+    .brands-inner__item-title {
+        font-size: 30px;
+        line-height: 24px;
+    }   
+    .brands-inner__image img {
+        width: 200px;
+    }
+    .newsletter__email {
+        width: 370px;
+    }
+}
+
+@media(max-width: 440px){
+    // .header{
+    //     overflow-x: hidden;
+    // }
+    .header__btn-link {
+        padding-right: 55px;
+        right: 0;
+        &:after{
+           right: 15px;
+        }
+    }
+    
+    .header__content-item__title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .header__img img{
+        width: 250px;
+    }
+    .footer__menu {
+        margin-bottom: 40px;
+    }
+    .footer__social-list{
+        margin-bottom: 25px;
+    }
+    .footer__social-item{
+        margin: 0 10px;
+        width: 50px;
+        height: 50px;
+    }
+    .footer__social-link{
+    left: 27%;
+    top: 21%;
+    }    
+
+    .footer__copy-text{
+        font-size: 12px;
+    }
+    .newsletter__email {
+        width: 330px;
+    }
+}
+
+@media(max-width: 400px){
+    .newsletter__email {
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+    .newsletter__btn {
+        right: 7%;
+    }
+}
+@media(max-width: 375px){
+    .header__btn {
+        width: 305px;
+    }
+    .header{
+        overflow-x: hidden;
+    }
+
+    .brands-inner__image::after {
+        top: 45%;
+        right: -8px;
+        width: 200px;
+        height: 200px;
+    }
+    .brands-inner__image::before {
+        top: 57%;
+        left: 73%;
+        width: 125px;
+        height: 125px;
+    }
+    .newsletter__email {
+        width: 300px;
+    } 
+    .newsletter__btn {
+        right: 11%;
+    }
+}
+@media(max-width: 320px){
+    .brands-inner__image::after {
+        top: 50%;
+    }
+        .brands-inner__image::before {
+            top: 61%;
+            left: 70%;
+  }
+}
